@@ -1,3 +1,5 @@
+This Repository moved to the [dracula-theme-org](https://github.com/dracula/gh-dash)
+
 # Dracula for [gh-dash](https://github.com/dlvhdr/gh-dash)
 
 > A dark theme for [gh-dash](https://github.com/dlvhdr/gh-dash).
